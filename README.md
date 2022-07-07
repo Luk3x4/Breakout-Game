@@ -1,3 +1,3 @@
-#Breakout Game
+# Breakout Game
 
 Used HTML, CSS Javascript
