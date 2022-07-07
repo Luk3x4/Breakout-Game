@@ -1,0 +1,11 @@
+canvas{
+    background: white
+}
+
+html, body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #353535;
+}
